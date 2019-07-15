@@ -1,9 +1,9 @@
 import time
 import numpy as np
 
-BOARD_SIZE_X = 8
-BOARD_SIZE_Y = 8
-START_X = 4
+BOARD_SIZE_X = 5
+BOARD_SIZE_Y = 5
+START_X = 0
 START_Y = 0
 TOTAL_STEPS = BOARD_SIZE_X * BOARD_SIZE_Y
 
